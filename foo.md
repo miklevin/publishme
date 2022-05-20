@@ -1,5 +1,6 @@
 ---
 permalink: /bar/
+title: Foo Bar is always a good idea
 ---
 # Foo file
 
