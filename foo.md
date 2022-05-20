@@ -1,3 +1,6 @@
+---
+permalink: /bar/
+---
 # Foo file
 
 Hello paragraph.
